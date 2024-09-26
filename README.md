@@ -30,7 +30,7 @@ This project was built using Webpack and Workbox to ensure it meets PWA criteria
 
 2. Access the application at: http://localhost:3000/
 
-Here is the link to the [deployed application on Render]([add link here]).
+Here is the link to the [deployed application on Render](https://text-editor-mzng.onrender.com/).
 
 ![Screenshot of Text Editor](/images/text-editor.png)
 
